@@ -1,0 +1,50 @@
+/* Style the container div */
+div {
+  text-align: center;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+/* Style the header */
+.Header {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Style the section titles */
+h2 {
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+/* Style the input fields */
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Style the placeholders */
+input::placeholder {
+  color: #999;
+}
+
+/* Add more specific styles for individual fields if needed */
+.Name {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.Email {
+  font-style: italic;
+}
+
+.Phone {
+  font-weight: bold;
+}
+
+
