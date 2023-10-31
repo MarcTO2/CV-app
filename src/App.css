@@ -33,7 +33,7 @@ input::placeholder {
   color: #999;
 }
 
-/* Add more specific styles for individual fields if needed */
+/* Style the individual fields if needed */
 .Name {
   font-weight: bold;
   font-size: 16px;
@@ -47,4 +47,18 @@ input::placeholder {
   font-weight: bold;
 }
 
+/* Style the buttons */
+button {
+  padding: 10px 20px;
+  background-color: #0074d9;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
 
+/* Style buttons on hover */
+button:hover {
+  background-color: #0056b3;
+}

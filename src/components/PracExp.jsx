@@ -8,7 +8,7 @@ const PracExp = () => {
         <h2>Practical Experience</h2>
         <h4>Company Name</h4>
         <input 
-            className='Company Name'
+            className='CompanyName'
             type='text'
             placeholder='Enter your company name'
         />

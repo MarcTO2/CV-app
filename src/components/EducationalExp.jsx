@@ -8,7 +8,7 @@ const EducationalExp = () => {
         <h2>Educational Experience</h2>
         <h4>School Name</h4>
         <input 
-            className='School Name'
+            className='SchoolName'
             type='text'
             placeholder='Enter your school name'
         />
